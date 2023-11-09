@@ -5,7 +5,7 @@ mdで記載しており、Previewで見るとフォーマット化されます�
 利用や改変は自由ですが、ブログやTwitterなどでプロンプトを共有される場合は参照元明記や私のTwitterまでご一報いただけると幸いです。(喜びます)
 
 # Contributing
-あくまで個人用ではありますが、ご知見踏まえたpull-requestやissueは大変助かります。  
+あくまで個人用ではありますが、ご知見踏まえたpull-requestやissueは大変助かります。(喜びます)
 
 # Author
 https://twitter.com/ShoheiTai

@@ -6,3 +6,6 @@ mdで記載しており、Previewで見るとフォーマット化されます�
 
 # Contributing
 あくまで個人用ではありますが、ご知見踏まえたpull-requestやissueは大変助かります。  
+
+# Author
+https://twitter.com/ShoheiTai
